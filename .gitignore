@@ -1,0 +1,20 @@
+node_modules
+src
+.gclient_entries
+npm-debug.log
+.gclient
+.sccache
+**.sw[po]
+.vscode
+.cipd
+.idea
+network_log.json
+network-audit-results.json
+
+# Rendered Sphinx files should be excluded from source control
+build
+_build
+
+# Clion files
+CMakeLists.txt
+cmake-build-debug
