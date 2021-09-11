@@ -1,0 +1,11 @@
+node_modules
+src
+.gclient_entries
+npm-debug.log
+.gclient
+.sccache
+**.sw[po]
+
+# Clion files
+CMakeLists.txt
+cmake-build-debug
